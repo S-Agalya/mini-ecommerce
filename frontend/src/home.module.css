@@ -1,0 +1,12 @@
+.navbar {
+    background-color: navy;
+    height: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .curved{
+    border-radius: 25px;
+    width:600px;
+  }
